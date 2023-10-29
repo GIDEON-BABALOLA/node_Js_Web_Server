@@ -1,0 +1,2 @@
+Authentication is the process of verifying who someone is
+Authorization is the process of verifying what resources a user has acess to

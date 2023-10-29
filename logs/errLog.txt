@@ -1,0 +1,63 @@
+20231011	22:58:59	42414a5c-f9c2-4431-acc8-6957c550a8b6	Error: Not allowed by CORS
+20231012	14:47:10	c7e1ad39-e5b7-4bfc-b4ad-10885d820775	ReferenceError: sendFile is not defined
+20231013	07:54:35	5aafb4df-4308-4107-b4c8-8c2e778e23f9	SyntaxError: Unexpected token G in JSON at position 15
+20231015	22:46:13	b1c2d88e-8a85-4780-abb4-0257d7e93978	SyntaxError: Unexpected token e in JSON at position 0
+20231018	07:57:11	7e689c6a-561a-43bf-b517-f2d38cfc4bfb	ReferenceError: log is not defined
+20231025	06:24:25	ceda28f1-1ecb-4b90-95f3-66695c352786	Error: Not allowed by CORS
+20231025	06:25:08	35330bca-6f8d-4816-a71e-e1659d58feef	Error: Not allowed by CORS
+20231025	06:26:46	422c21b2-90fe-4cb2-aeed-04557656097c	Error: Not allowed by CORS
+20231025	06:27:17	6f09e1cf-8e3e-41b4-a933-680712f11d48	Error: Not allowed by CORS
+20231025	06:27:22	e2936ae5-8f34-4ede-a0dd-2e919fa383cf	Error: Not allowed by CORS
+20231025	06:27:24	c9b11365-f102-4e4a-823b-7c6164a2a693	Error: Not allowed by CORS
+20231025	06:27:29	15799fb4-dbb3-4d20-b7df-37599c6e19f8	Error: Not allowed by CORS
+20231025	06:27:38	7224386f-40d4-4204-a528-14bf4726f410	Error: Not allowed by CORS
+20231025	06:27:39	bc8d68b7-2746-4d0a-98e9-64abc748298c	Error: Not allowed by CORS
+20231025	06:28:02	df82d676-04c3-4745-a71e-b9d59d66bdbe	Error: Not allowed by CORS
+20231025	06:28:03	07754e50-0af5-4eb5-8d3e-2c341271ecee	Error: Not allowed by CORS
+20231025	06:28:11	78faa632-a7ca-4577-a16b-6589a63a9dc3	Error: Not allowed by CORS
+20231025	06:28:12	1d54e0b9-5c4c-4496-90aa-8e16c7bc0d5f	Error: Not allowed by CORS
+20231025	06:29:44	4b3c2f4d-9adf-4e21-94d9-c1dda9dbb8e8	Error: Not allowed by CORS
+20231025	06:29:45	5acac51c-0f76-4699-8b67-b18234606795	Error: Not allowed by CORS
+20231025	06:31:42	4b5cfaac-095a-4c18-9f30-9d550d058fe8	Error: Not allowed by CORS
+20231025	06:31:43	6b284350-d92f-4185-b24f-ef3651cae46d	Error: Not allowed by CORS
+20231025	06:37:06	9f8115bb-7cd3-49a0-bd96-a62ebd8567b2	Error: Not allowed by CORS
+20231025	06:37:08	52f1db2d-6980-412f-9f02-c4e8d4613a7c	Error: Not allowed by CORS
+20231025	06:37:08	d3fbbb46-b8b9-428a-aea1-eca4370b08e9	Error: Not allowed by CORS
+20231025	06:37:13	455a454f-302e-4def-9640-df19c8a64f36	Error: Not allowed by CORS
+20231025	06:37:14	51b301f9-21e6-4131-b719-1e2110869802	Error: Not allowed by CORS
+20231025	06:37:15	09937582-a860-435f-acff-bf248d0a0a2c	Error: Not allowed by CORS
+20231025	06:38:34	653c1ca9-66b8-4408-b6d0-c8d421dabdb7	Error: Not allowed by CORS
+20231025	06:38:37	a7c6e733-eee8-4ae3-90f7-4b346e4642f8	Error: Not allowed by CORS
+20231025	06:38:39	728e9a42-dd54-42f4-9b34-1a590f177ffd	Error: Not allowed by CORS
+20231025	06:38:58	ec0cc25d-cf9a-427a-b94e-d63fff597eda	Error: Not allowed by CORS
+20231025	06:38:59	2c0e1c51-dc04-4eea-8dd4-ccfc37e9bb18	Error: Not allowed by CORS
+20231025	06:40:11	caf3a558-7789-47d9-a866-e77d9c32a772	Error: Not allowed by CORS
+20231025	06:44:09	60a0dda7-41ac-4dbc-b72e-8966811e53a3	Error: Not allowed by CORS
+20231027	04:46:32	8c7162c2-9c7e-416b-9a92-82b7a946048c	TypeError: Cannot convert undefined or null to object
+20231027	04:46:42	542c9ac0-b09b-49ec-9197-deee30e64f86	TypeError: Cannot convert undefined or null to object
+20231027	04:50:27	6a0d336c-f1d3-4980-b184-fa91cf49f771	TypeError: Cannot convert undefined or null to object
+20231027	04:51:16	e0841dd4-fdc3-4cb5-b038-fbf4ab7a3e7b	TypeError: Cannot convert undefined or null to object
+20231027	04:53:31	32a7d907-1463-4c45-9a1a-94fbb5596d1c	TypeError: Cannot convert undefined or null to object
+20231027	05:03:54	1afe94fa-8574-4bc9-adbe-181c4f5d7b07	TypeError: Cannot convert undefined or null to object
+20231027	10:39:07	22a17320-f978-4acd-a26a-9ab21233a473	TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
+20231027	10:39:32	3ee3ee76-3248-4665-89da-58329290f5e3	TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
+20231027	10:43:53	263f0265-7577-49f1-a608-7b485d98e367	TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
+20231027	10:44:19	87056485-1cba-4469-b030-193288aa7a9d	TypeError: User.findMany is not a function
+20231027	10:47:38	521e4e0d-e24c-419a-abd7-cf6744461e1f	TypeError: User.findMany is not a function
+20231027	17:51:45	fd78aa18-dedc-4d81-9a82-b3b8d0564b12	SyntaxError: Unexpected string in JSON at position 9
+20231027	17:56:04	ee145450-f19f-47b5-9aff-ca194fcd27f0	SyntaxError: Unexpected token i in JSON at position 1
+20231027	17:56:06	c51e6d7f-9fe5-4cfd-8ee3-37f7d6fa394c	SyntaxError: Unexpected token i in JSON at position 1
+20231027	17:56:12	7a259330-0119-4869-abe3-22e704360a8f	SyntaxError: Unexpected string in JSON at position 9
+20231027	17:59:47	fe01ed65-42f1-40c0-a036-177a861b03b0	ReferenceError: data is not defined
